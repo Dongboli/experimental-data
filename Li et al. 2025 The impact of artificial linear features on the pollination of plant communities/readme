@@ -6,4 +6,11 @@
 #
 #  Data will be moved to data respositories e.g., dryad after being published
 #
-#
+#  Each csv file contains seed set data for each species
+#  BO - Borago officinalis
+#  SN - Silene nutans 
+#  SV - Salvia verbenaca
+#  AM - Anthemis arvensis 
+#  CC - Centaurium erythraea 
+#  Lotus - Lotus corniculatus
+#  z - Zaluzianskya capensis 
